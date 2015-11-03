@@ -1,0 +1,6 @@
+.parent_box {background: #336699; width: 1000px}
+
+.inside_box {outline: 1px solid #336699; display: inline-block; width: 49%; vertical-align: middle; color: white
+ }
+
+.watchimage {width: 100%}
